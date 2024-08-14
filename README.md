@@ -19,7 +19,7 @@ Step 4: Copy All Of That And Paste It Into ``[qb]/qb-inventory/html/images``
 .
 
 Step 5: 
- -- Custom Drinks
+
     barr_bubblegum 	 			 		 = {name = 'barr_bubblegum', 			  	  	label = 'Barr Bubblegum', 					weight = 200, 		type = 'item', 		image = 'Barr-Bubblegum.png', 				unique = false, 	useable = true, 	shouldClose = true,	   combinable = nil,   description = 'Yummy So Nice!'},
     barr_cherryade 				 		 = {name = 'barr_cherryade', 			  	  	label = 'Barr Cherryade', 					weight = 200, 		type = 'item', 		image = 'Barr-Cherryade.png', 				unique = false, 	useable = true, 	shouldClose = true,	   combinable = nil,   description = 'Yummy So Nice!'},
     barr_cola 				 		     = {name = 'barr_cola', 			  	  		label = 'Barr Cola', 					    weight = 200, 		type = 'item', 		image = 'Barr-Cola.png', 				    unique = false, 	useable = true, 	shouldClose = true,	   combinable = nil,   description = 'Yummy So Nice!'},
